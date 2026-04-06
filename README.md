@@ -3,7 +3,7 @@
 **项目名称**
 
 - 中文名：`Agent 那些事儿`
-- 仓库名：`from-function-call-to-agent-os`
+- 仓库名：`agent-things`
 
 ## 这个项目是什么
 
