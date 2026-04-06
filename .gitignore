@@ -1,0 +1,6 @@
+.DS_Store
+__pycache__/
+*.pyc
+
+# Internal authoring workflow and local drafting materials
+_internal/
